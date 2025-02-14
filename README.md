@@ -77,6 +77,9 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 - [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
+#### Security Plugins for WordPress  
+- [Facial Recognition Authentication](https://wordpress.org/plugins/facial-recognition-authentication/) - A WordPress plugin integrating facial recognition for secure logins. [GitHub](https://github.com/NewWayPMSCo/Facial-Recognition-Authentication)  
+
 #### WPGraphQL Extensions
 
 - [WPGraphQL Cors](https://github.com/funkhaus/wp-graphql-cors) - This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.
